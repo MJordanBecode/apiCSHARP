@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "\\\\wsl.localhost\\Ubuntu\\home\\jordan\\Becode\\Wozniak\\Wozniak-C#\\apiCSHARP\\WebApplication1\\WebApplication1.csproj": {}
+    "/home/jordan-ubuntu/Becode/Wozniak/Wex/C#/apiCSHARP/WebApplication1/WebApplication1.csproj": {}
   },
   "projects": {
-    "\\\\wsl.localhost\\Ubuntu\\home\\jordan\\Becode\\Wozniak\\Wozniak-C#\\apiCSHARP\\WebApplication1\\WebApplication1.csproj": {
+    "/home/jordan-ubuntu/Becode/Wozniak/Wex/C#/apiCSHARP/WebApplication1/WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\jordan\\Becode\\Wozniak\\Wozniak-C#\\apiCSHARP\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "/home/jordan-ubuntu/Becode/Wozniak/Wex/C#/apiCSHARP/WebApplication1/WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\jordan\\Becode\\Wozniak\\Wozniak-C#\\apiCSHARP\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\jorda\\.nuget\\packages\\",
-        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\jordan\\Becode\\Wozniak\\Wozniak-C#\\apiCSHARP\\WebApplication1\\obj\\",
+        "projectPath": "/home/jordan-ubuntu/Becode/Wozniak/Wex/C#/apiCSHARP/WebApplication1/WebApplication1.csproj",
+        "packagesPath": "/home/jordan-ubuntu/.nuget/packages/",
+        "outputPath": "/home/jordan-ubuntu/Becode/Wozniak/Wex/C#/apiCSHARP/WebApplication1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jorda\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/jordan-ubuntu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\jorda\\.dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/jordan-ubuntu/dotnet9/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
