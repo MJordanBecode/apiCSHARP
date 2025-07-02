@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/jordan-ubuntu/Becode/Wozniak/Wex/C#/apiCSHARP/WebApplication1/WebApplication1.csproj": {}
+    "/home/jordan/Becode/Wozniak/Wozniak-C#/apiCSHARP/WebApplication1/WebApplication1.csproj": {}
   },
   "projects": {
-    "/home/jordan-ubuntu/Becode/Wozniak/Wex/C#/apiCSHARP/WebApplication1/WebApplication1.csproj": {
+    "/home/jordan/Becode/Wozniak/Wozniak-C#/apiCSHARP/WebApplication1/WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jordan-ubuntu/Becode/Wozniak/Wex/C#/apiCSHARP/WebApplication1/WebApplication1.csproj",
+        "projectUniqueName": "/home/jordan/Becode/Wozniak/Wozniak-C#/apiCSHARP/WebApplication1/WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "/home/jordan-ubuntu/Becode/Wozniak/Wex/C#/apiCSHARP/WebApplication1/WebApplication1.csproj",
-        "packagesPath": "/home/jordan-ubuntu/.nuget/packages/",
-        "outputPath": "/home/jordan-ubuntu/Becode/Wozniak/Wex/C#/apiCSHARP/WebApplication1/obj/",
+        "projectPath": "/home/jordan/Becode/Wozniak/Wozniak-C#/apiCSHARP/WebApplication1/WebApplication1.csproj",
+        "packagesPath": "/home/jordan/.nuget/packages/",
+        "outputPath": "/home/jordan/Becode/Wozniak/Wozniak-C#/apiCSHARP/WebApplication1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jordan-ubuntu/.nuget/NuGet/NuGet.Config"
+          "/home/jordan/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/jordan-ubuntu/dotnet9/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/jordan/.dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

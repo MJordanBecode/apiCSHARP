@@ -159,3 +159,14 @@
 /home/jordan-ubuntu/Becode/Wozniak/Wex/C#/apiCSHARP/WebApplication1/obj/Debug/net9.0/WebApplication1.pdb
 /home/jordan-ubuntu/Becode/Wozniak/Wex/C#/apiCSHARP/WebApplication1/obj/Debug/net9.0/WebApplication1.genruntimeconfig.cache
 /home/jordan-ubuntu/Becode/Wozniak/Wex/C#/apiCSHARP/WebApplication1/obj/Debug/net9.0/ref/WebApplication1.dll
+/home/jordan/Becode/Wozniak/Wozniak-C#/apiCSHARP/WebApplication1/obj/Debug/net9.0/WebApplication1.csproj.AssemblyReference.cache
+/home/jordan/Becode/Wozniak/Wozniak-C#/apiCSHARP/WebApplication1/obj/Debug/net9.0/WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+/home/jordan/Becode/Wozniak/Wozniak-C#/apiCSHARP/WebApplication1/obj/Debug/net9.0/WebApplication1.AssemblyInfoInputs.cache
+/home/jordan/Becode/Wozniak/Wozniak-C#/apiCSHARP/WebApplication1/obj/Debug/net9.0/WebApplication1.AssemblyInfo.cs
+/home/jordan/Becode/Wozniak/Wozniak-C#/apiCSHARP/WebApplication1/obj/Debug/net9.0/WebApplication1.csproj.CoreCompileInputs.cache
+/home/jordan/Becode/Wozniak/Wozniak-C#/apiCSHARP/WebApplication1/obj/Debug/net9.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cs
+/home/jordan/Becode/Wozniak/Wozniak-C#/apiCSHARP/WebApplication1/obj/Debug/net9.0/WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+/home/jordan/Becode/Wozniak/Wozniak-C#/apiCSHARP/WebApplication1/obj/Debug/net9.0/WebApplication1.sourcelink.json
+/home/jordan/Becode/Wozniak/Wozniak-C#/apiCSHARP/WebApplication1/obj/Debug/net9.0/WebApplication1.dll
+/home/jordan/Becode/Wozniak/Wozniak-C#/apiCSHARP/WebApplication1/obj/Debug/net9.0/refint/WebApplication1.dll
+/home/jordan/Becode/Wozniak/Wozniak-C#/apiCSHARP/WebApplication1/obj/Debug/net9.0/WebApplication1.pdb

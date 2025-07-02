@@ -1,6 +1,6 @@
 namespace DefaultNamespace;
 
- public class User
+ public class Users
     {
         public int Id { get; set; }
         public string FirstName { get; set; } = string.Empty;
