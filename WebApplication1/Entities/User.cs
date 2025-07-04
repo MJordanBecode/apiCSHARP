@@ -1,6 +1,6 @@
-namespace DefaultNamespace;
+namespace WebApplication1.Entities;
 
- public class Users
+ public class User
     {
         public int Id { get; set; }
         public string FirstName { get; set; } = string.Empty;

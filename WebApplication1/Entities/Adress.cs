@@ -1,4 +1,4 @@
-namespace DefaultNamespace;
+namespace WebApplication1.Entities;
 
 public class Address
 {
